@@ -19,6 +19,7 @@ int search(int a[][4], int size, int key)
         else
         row=row+1;
     }
+    //row=size and column=0, key is not present.
     printf("\n Key not found!");
 }
 
