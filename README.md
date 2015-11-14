@@ -1,3 +1,3 @@
 # algo
-Some of my practice solutions.
+Some of my practice solutions. 
 
